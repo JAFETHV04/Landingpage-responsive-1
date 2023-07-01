@@ -84,9 +84,11 @@ main{
     display: flex;
     flex-direction: column;
     padding-left: 80px;
+    
 }
 .texto h1{
-    font-size: 80px;
+    margin-top: 15px;
+    font-size: 75px;
 }
 .texto p{
     font-size: 34px;
